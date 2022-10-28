@@ -6,6 +6,8 @@ namespace Cat
 {
   public class EnemyManager : MonoBehaviour
   {
+        //1028_ 커밋테스트01
+        //Push Test
     #region Data
     public enum CurrDirection
     {
